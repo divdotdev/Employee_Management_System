@@ -1,0 +1,140 @@
+Time   : 6/22/2026, 10:46:50 AM
+Method : GET
+URL    : /
+IP     : ::1
+----------------------------------
+Time   : 6/22/2026, 10:46:50 AM
+Method : GET
+URL    : /favicon.ico
+IP     : ::1
+----------------------------------
+Time   : 6/22/2026, 10:46:55 AM
+Method : GET
+URL    : /insertdata
+IP     : ::1
+----------------------------------
+Time   : 6/22/2026, 10:47:07 AM
+Method : POST
+URL    : /createdata
+IP     : ::1
+----------------------------------
+Time   : 6/22/2026, 10:47:07 AM
+Method : GET
+URL    : /getdata
+IP     : ::1
+----------------------------------
+Time   : 6/22/2026, 10:47:15 AM
+Method : GET
+URL    : /getdata?department=CSE
+IP     : ::1
+----------------------------------
+Time   : 6/22/2026, 10:47:16 AM
+Method : GET
+URL    : /
+IP     : ::1
+----------------------------------
+Time   : 6/22/2026, 10:47:18 AM
+Method : GET
+URL    : /getdata
+IP     : ::1
+----------------------------------
+Time   : 6/22/2026, 10:47:19 AM
+Method : GET
+URL    : /
+IP     : ::1
+----------------------------------
+Time   : 6/22/2026, 10:47:19 AM
+Method : GET
+URL    : /insertdata
+IP     : ::1
+----------------------------------
+Time   : 6/22/2026, 10:47:38 AM
+Method : POST
+URL    : /createdata
+IP     : ::1
+----------------------------------
+Time   : 6/22/2026, 10:47:38 AM
+Method : GET
+URL    : /getdata
+IP     : ::1
+----------------------------------
+Time   : 6/22/2026, 10:47:42 AM
+Method : GET
+URL    : /getdata?department=CSE
+IP     : ::1
+----------------------------------
+Time   : 6/22/2026, 10:49:49 AM
+Method : GET
+URL    : /getdata?department=CSE
+IP     : ::1
+----------------------------------
+Time   : 6/22/2026, 10:49:49 AM
+Method : GET
+URL    : /getdata?department=CSE
+IP     : ::1
+----------------------------------
+Time   : 6/22/2026, 10:49:50 AM
+Method : GET
+URL    : /getdata?department=CSE
+IP     : ::1
+----------------------------------
+Time   : 6/22/2026, 10:49:51 AM
+Method : GET
+URL    : /delete/6a38c55313da1489529620e6
+IP     : ::1
+----------------------------------
+Time   : 6/22/2026, 10:49:51 AM
+Method : GET
+URL    : /getdata
+IP     : ::1
+----------------------------------
+Time   : 6/22/2026, 10:49:52 AM
+Method : GET
+URL    : /delete/6a38c57213da1489529620e7
+IP     : ::1
+----------------------------------
+Time   : 6/22/2026, 10:49:52 AM
+Method : GET
+URL    : /getdata
+IP     : ::1
+----------------------------------
+Time   : 6/22/2026, 10:49:53 AM
+Method : GET
+URL    : /
+IP     : ::1
+----------------------------------
+Time   : 6/22/2026, 10:49:56 AM
+Method : GET
+URL    : /insertdata
+IP     : ::1
+----------------------------------
+Time   : 6/22/2026, 10:50:07 AM
+Method : GET
+URL    : /
+IP     : ::1
+----------------------------------
+Time   : 6/22/2026, 10:50:09 AM
+Method : GET
+URL    : /getdata
+IP     : ::1
+----------------------------------
+Time   : 6/22/2026, 10:52:57 AM
+Method : GET
+URL    : /
+IP     : ::1
+----------------------------------
+Time   : 6/22/2026, 10:52:58 AM
+Method : GET
+URL    : /insertdata
+IP     : ::1
+----------------------------------
+Time   : 6/22/2026, 10:53:09 AM
+Method : POST
+URL    : /createdata
+IP     : ::1
+----------------------------------
+Time   : 6/22/2026, 10:53:09 AM
+Method : GET
+URL    : /getdata
+IP     : ::1
+----------------------------------
